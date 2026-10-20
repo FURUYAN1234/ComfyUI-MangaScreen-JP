@@ -1,0 +1,13 @@
+カラーイラストを漫画原稿風に変換する、ComfyUI用「MangaScreen 日本語ローカライズ・原寸出力対応版」を公開しました。
+
+ashukae氏のMangaScreenをベースに、日本語の説明、指示文のリセット、8項目のスライダー・数値入力と一括リセットを追加。入力画像の解像度・縦横比をそのまま引き継いで出力できます。
+
+GitHubには、ワークフロー全体の画像、入力・変換結果の実作例、導入手順を掲載しています。
+
+コードは原作のMIT表記を保持。Qwenモデルなどの利用条件は別途確認が必要で、Qwenの商用利用には別許諾が必要です。
+
+ダウンロード・使い方：
+https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP
+
+原作：ashukae / ComfyUI-MangaScreen
+#ComfyUI #MangaScreen #画像生成 #漫画制作

@@ -1,0 +1,7 @@
+* -text
+custom_nodes/** -text
+*.json -text
+LICENSE -text
+**/LICENSE -text
+licenses/** -text
+requirements*.txt -text

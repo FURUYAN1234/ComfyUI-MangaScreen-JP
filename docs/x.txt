@@ -1,0 +1,5 @@
+カラーイラストを漫画原稿風に。
+MangaScreenの日本語ローカライズ版を公開しました。入力と同じ解像度・縦横比で出力。日本語説明・トーン調整・リセット付き。
+原作：ashukae氏／モデルは別ライセンス
+https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP
+#ComfyUI
