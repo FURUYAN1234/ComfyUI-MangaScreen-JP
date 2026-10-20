@@ -14,7 +14,7 @@ ashukae氏のMangaScreenを土台に、日本語操作と入力画像の原寸�
 
 ## Download / ダウンロード
 
-[Release 20261020171819](https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/tag/20261020171819) · [ZIP](https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/download/20261020171819/MangaScreen_JP_OriginalSize_20261020171819.zip)
+[Release 20261020174738](https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/tag/20261020174738) · [ZIP](https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/download/20261020174738/MangaScreen_JP_OriginalSize_20261020174738.zip)
 
 ## Workflow and actual example / ワークフローと実作例
 
@@ -94,8 +94,10 @@ Original code: Copyright (c) 2026 ashukae, MIT. Modifications: FURUYAN1234, MIT.
 
 ## Related links / 関連リンク
 
-[Original / 原作](https://github.com/ashukae/ComfyUI-MangaScreen) · [Original commit / 参照版](https://github.com/ashukae/ComfyUI-MangaScreen/tree/d0eb8dcc6c45274e3eee118ff0dabe05b56039b9) · [Article draft / note原稿](docs/note.md)
+[Original / 原作](https://github.com/ashukae/ComfyUI-MangaScreen) · [Original commit / 参照版](https://github.com/ashukae/ComfyUI-MangaScreen/tree/d0eb8dcc6c45274e3eee118ff0dabe05b56039b9) · [note article / 日本語記事](https://note.com/happy_duck780/n/n5c89a250fb82) · [Article source / 記事原稿](docs/note.md)
 
 ## Changelog / 変更履歴
+
+- 20261020174738: Published note article, linked social copy, and redesigned the cover for note’s 1280:670 frame. / note公開、投稿文の誘導先修正、note比率に合わせた表紙と余白の修正。
 
 - 20261020171819: Initial JP localization, original-size output, reset/slider UI, zero-border fix, release example and documentation. / 日本語操作・原寸出力対応の初回公開。

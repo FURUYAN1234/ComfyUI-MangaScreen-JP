@@ -1,6 +1,6 @@
 # イラストを漫画原稿風に。MangaScreenを日本語化し、入力画像のサイズで出力できるようにしました
 
-![MangaScreen 日本語ローカライズ版](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020171819/assets/thumbnail.png)
+![MangaScreen 日本語ローカライズ版](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020174738/assets/thumbnail.png)
 
 カラーイラストを、線画・黒ベタ・スクリーントーンを使った漫画原稿風の画像に変換するComfyUIワークフローを公開しました。
 
@@ -14,23 +14,23 @@ GitHub：
 https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP
 
 配布ZIP・リリース：
-https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/tag/20261020171819
+https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/latest
 
 モデルの重みは同梱していません。導入手順と各モデルの入手先はREADMEにもまとめています。
 
 ## ワークフローと変換結果
 
-![ワークフロー全体](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020171819/assets/workflow.jpg)
+![ワークフロー全体](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020174738/assets/workflow.jpg)
 
 処理の流れは「入力画像 → Qwen-Image 2.1 Turboで漫画風に編集 → 入力画像の幅・高さへ復元 → 線画・トーンの仕上げ → PNG保存」です。
 
 内部のAI処理は約2MPで行い、スクリーントーンを描く前に入力画像の寸法へ戻します。最後にトーンを引き伸ばす方式を避け、原寸で網点を作る構成です。
 
 入力画像：
-![入力画像・1536×1024](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020171819/assets/original.png)
+![入力画像・1536×1024](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020174738/assets/original.png)
 
 実際の変換結果：
-![変換結果・1536×1024](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020171819/assets/result.png)
+![変換結果・1536×1024](https://raw.githubusercontent.com/FURUYAN1234/ComfyUI-MangaScreen-JP/20261020174738/assets/result.png)
 
 この作例の入力は、公開用に今回新しくAI生成した画像です。変換結果は配布するワークフローの実出力です。サムネイルは紹介用に構成した画像なので、画質は上の実出力PNGで確認してください。
 
@@ -99,7 +99,7 @@ README・ワークフロー・作例：
 https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP
 
 現在の配布版：
-https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/tag/20261020171819
+https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/latest
 
 原作MangaScreen：
 https://github.com/ashukae/ComfyUI-MangaScreen
