@@ -1,5 +1,10 @@
 # MangaScreen JP — Japanese localization & original-size output / 日本語ローカライズ・原寸出力対応版
 
+[![Download MangaScreen JP ComfyUI workflow ZIP / MangaScreen JPをダウンロード](docs/assets/mangascreen-jp-download-banner.png)](https://github.com/FURUYAN1234/ComfyUI-MangaScreen-JP/releases/download/20261020174738/MangaScreen_JP_OriginalSize_20261020174738.zip)
+
+**Workflow package / ワークフロー配布ZIP:** Download and extract this package, then follow the installation instructions and model requirements in this README. / この配布ZIPをダウンロードして展開し、このREADMEの導入手順と必要なモデル・環境を確認してください。
+
+
 An unofficial derivative of [ashukae/ComfyUI-MangaScreen](https://github.com/ashukae/ComfyUI-MangaScreen), retaining the full Qwen-Image 2.1 Turbo 8-step workflow.
 ashukae氏のMangaScreenを土台に、日本語操作と入力画像の原寸出力を追加した非公式派生版です。原作のフル構成を継承しています。
 
